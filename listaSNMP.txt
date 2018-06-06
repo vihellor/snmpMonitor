@@ -1,0 +1,15 @@
+1.3.6.1.2.1.25.1.6.0-Total_Processes
+1.3.6.1.2.1.25.1.5.0-Users_Count
+sysDescr.0-System_description
+sysUpTime.0-System_Up_Time
+sysContact.0-System_Contact
+sysName.0-System_Name
+sysLocation.0-System_Location
+1.3.6.1.4.1.2021.11.9.0-Percentache_Of_User_CPU_TIme
+1.3.6.1.4.1.2021.11.51.0-Raw_Nice_CPU_Time
+1.3.6.1.4.1.2021.4.5.0-Total_RAM_in_machine
+1.3.6.1.4.1.2021.4.6.0-Total_RAM_used
+1.3.6.1.4.1.2021.4.11.0-Total_RAM_Free
+1.3.6.1.2.1.7.1-Udp_In_Datagrams
+1.3.6.1.2.1.7.3-Udp_In_Errors
+1.3.6.1.2.1.7.4-Udp_Out_Datagrams
